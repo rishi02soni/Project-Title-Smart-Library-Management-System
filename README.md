@@ -1,4 +1,4 @@
-#  Smart Library Management System (Java OOP)
+#  Smart Library Management System 
 
 ##  Overview
 The Smart Library Management System is a console-based Java application built using core Object-Oriented Programming (OOP) principles. It allows users to manage books efficiently with features like adding, issuing, and returning books.
